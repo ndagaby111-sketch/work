@@ -18,5 +18,5 @@ app.post("/contact", (req, res) => {
 
 // start server
 app.listen(3000, () => {
-  console.log("Server running at https://gabriel-portfolio.onrender.com");
+  console.log("Server running at http://localhost:3000/contact.html");
 });
